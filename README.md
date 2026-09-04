@@ -12,11 +12,11 @@ An interactive, custom-designed executive sales dashboard built in Microsoft Exc
 
 ---
 
-## 💻 Repository View
+## 💡 Key Insights & Recommendations
 
-<p align="center">
-  <img src="Screenshot (537).jpg" alt="GitHub Repository View" width="100%">
-</p>
+* **Quarterly Sales Growth**: Sales show a consistent upward trajectory throughout the year, climbing steadily from Q1 ($359.68K) to peak significantly in Q4 ($878.07K). *Recommendation: Increase inventory and marketing efforts ahead of Q3 to capture the high Q4 seasonal demand.*
+* **Fulfillment Preferences**: Standard Class dominates customer delivery choices at 59%, followed by Second Class (20%), First Class (15%), and Same Day (6%). *Recommendation: Optimize bulk freight contracts for Standard Class shipping to negotiate better margins.*
+* **Category Performance**: Technology leads total sales with $836.15K, closely followed by Furniture ($741.99K) and Office Supplies ($719.04K). *Recommendation: Focus promotional campaigns and high-value bundles on the Technology category while cross-selling high-margin office items.*
 
 ---
 
